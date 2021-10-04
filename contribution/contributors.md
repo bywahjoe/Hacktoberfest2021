@@ -12,6 +12,7 @@
 | Rzhasibuan | [Rzhasibuan](https://github.com/rzhasibuan) |
 | Lukman | [Lukman350](https://github.com/Lukman350) |
 | Haikel | [haikelz](https://github.com/haikelz) |
+| Wahyu | [haikelz](https://github.com/bywahjoe) |
 
 
 
